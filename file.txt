@@ -1,4 +1,5 @@
 Just started
-New line 2
+THERE WAS ANOTHER LINE HERE
 Line3 in br2
-Line4 in br2
+Independent edit
+Line4 in br2 - let's see some confilicts!
