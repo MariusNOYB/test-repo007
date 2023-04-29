@@ -1,5 +1,5 @@
 Just started
 THERE WAS ANOTHER LINE HERE
-Line3 in br2
+Line3 in br2 and some more
 Independent edit
 Line4 in br2 - let's see some confilicts!
